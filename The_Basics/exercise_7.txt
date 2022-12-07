@@ -1,0 +1,2 @@
+In the second command in an irb session, someone included a ') where they should have used '}', possibly when trying to close a hash.
+(Having read the solution, I now see that they could have just left off the '}', with the ')' coming later rather than replacing the '}')
