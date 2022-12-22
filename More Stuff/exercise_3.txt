@@ -1,0 +1,2 @@
+Programs sometimes have to deal with unusual situations (as when receiving input). Execution handling allows programs to behave in sensible ways even
+if functions receive arguments they shouldn't or other features of the situation aren't what was expected.

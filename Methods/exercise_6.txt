@@ -1,0 +1,1 @@
+The function calculate_product was called with one argument instead of the required two.

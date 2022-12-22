@@ -1,0 +1,1 @@
+In my_hash, the key is a symbol, whereas in my_hash2, it is a string.

@@ -1,0 +1,10 @@
+1.
+After first line, arr is ["b", "a"]
+After second line, arr is [["b", 1], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]]
+After third line, arr becomes [["b"], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]] and we return 1 (delete returns what was deleted)
+
+
+2.
+After first line, arr is ["b", "a"]
+After second line, arr is [["b", [1, 2, 3]], ["a", [1, 2, 3]]]
+After third line, arr becomes [["b"], ["a", [1, 2, 3]]] and we return [1, 2, 3]

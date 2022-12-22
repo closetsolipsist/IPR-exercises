@@ -1,0 +1,1 @@
+To get items out of an array, you supply their position in the array, whereas to get values out of a hash, you supply a key.

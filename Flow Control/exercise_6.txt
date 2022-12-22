@@ -1,0 +1,6 @@
+(32 * 4) >= "129" will raise error
+847 == '847' will be false
+'847' < '846' will be false
+'847' > '846' will be true
+'847' > '8478' will be false
+'847' < '8478' will be true
