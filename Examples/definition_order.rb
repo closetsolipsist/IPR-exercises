@@ -1,9 +1,9 @@
 def top
-    bottom
+  bottom
 end
 
 def bottom
-    puts "Reached the bottom"
+  puts "Reached the bottom"
 end
 
 top

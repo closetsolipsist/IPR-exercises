@@ -1,4 +1,4 @@
 def greeting(name)
-    "Hello, #{name}!"
+  "Hello, #{name}!"
 end
 puts greeting("James")

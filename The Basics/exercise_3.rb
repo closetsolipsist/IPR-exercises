@@ -1,8 +1,8 @@
 movie_release_dates = {
-    "Jaws" => 1975,
-    "Wall-E" => 1982,
-    "Home Alone" => 1990,
-    "The Birds" => 1963
+  "Jaws" => 1975,
+  "Wall-E" => 1982,
+  "Home Alone" => 1990,
+  "The Birds" => 1963
 }
 puts movie_release_dates["Jaws"]
 puts movie_release_dates["Wall-E"]
